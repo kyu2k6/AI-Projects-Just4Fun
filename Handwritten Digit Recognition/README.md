@@ -1,2 +1,2 @@
-# AI-Rice-Recognition
-AI project in python that will determine types of rice based on image recognition.
+# Handwritten Digit Recognition
+Trains a Convolutional Neural Network (CNN) to classify handwritten digits using PyTorch.
