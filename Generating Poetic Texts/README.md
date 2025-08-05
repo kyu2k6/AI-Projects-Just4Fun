@@ -1,2 +1,2 @@
-# AI-Rice-Recognition
-AI project in python that will determine types of rice based on image recognition.
+# Generating Poetic Texts
+Builds a Recurrent Neural Network that will generate texts like Shakespeare by using TensorFlow and Keras.
