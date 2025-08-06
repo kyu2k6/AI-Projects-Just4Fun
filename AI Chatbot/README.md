@@ -1,2 +1,2 @@
-# AI-Rice-Recognition
-AI project in python that will determine types of rice based on image recognition.
+# AI Chatbot
+Chatbot you can interact with, with pregiven prompts. Made with PyTorch.
